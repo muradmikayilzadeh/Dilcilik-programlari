@@ -1,6 +1,6 @@
-qalin=['a','ı','o','u']
+qalin=['a','ı','o','u','A','I','O','U']
 
-ince=['ə','i','e','ö','ü']
+ince=['ə','i','e','ö','ü','Ə','İ','E','Ö','Ü']
 
 while True:
     soz=str(input('Soz daxil edin: '))

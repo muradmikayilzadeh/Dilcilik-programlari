@@ -4,12 +4,9 @@ saitler=['a','e','ə','ı','i','o','ö','u','ü','A','E','Ə','I','İ','O','Ö',
 while True:
     soz=str(input('Sozu daxil edin: '))
 
-    sozlist=list(soz)
-
-
     hecasayi=0
 
-    for i in sozlist:
+    for i in soz:
     
         if i in saitler:
             hecasayi=hecasayi+1
